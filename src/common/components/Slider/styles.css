@@ -1,0 +1,54 @@
+.w-50 img {
+    object-fit: fill;
+}
+
+.item {
+    object-fit:fill;
+    object-position: center;
+}
+
+.slide-text h3{
+    font-size: 40px;
+}
+
+.slide-text p{
+    font-size: 24px;
+}
+
+
+
+@media (max-width: 700px) {
+    .slide-text h3{
+        font-size: 24px;
+    }
+
+    .slide-text p{
+        font-size: 16px;
+    }
+
+    .carousel-control-next {
+
+    }
+
+    .carousel-indicators{
+
+    }
+}
+
+@media (max-width: 500px) {
+    .slide-text h3{
+        font-size: 16px;
+    }
+
+    .slide-text p{
+        font-size: 12px;
+    }
+
+    .carousel-control-next {
+
+    }
+
+    .carousel-indicators{
+
+    }
+}

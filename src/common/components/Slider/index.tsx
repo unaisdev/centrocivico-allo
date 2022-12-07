@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import slide1 from '../../../assets/slider/slider1.png'; // with import
 import slide2 from '../../../assets/slider/slider2.png'; // with import
 import slide3 from '../../../assets/slider/slider3.png'; // with import
-import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
 import Carousel from 'react-bootstrap/Carousel';
 import './styles.css';
 

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/centrocivico-allo/static/css/main.083cd21f.css",
+    "main.js": "/centrocivico-allo/static/js/main.96a83543.js",
+    "static/js/787.1b39e8de.chunk.js": "/centrocivico-allo/static/js/787.1b39e8de.chunk.js",
+    "static/media/slider1.png": "/centrocivico-allo/static/media/slider1.14e0252ebcb72030a6df.png",
+    "static/media/slider3.png": "/centrocivico-allo/static/media/slider3.674222c24191a3079879.png",
+    "static/media/slider2.png": "/centrocivico-allo/static/media/slider2.db2bdf93ef9f9d6ebb1f.png",
+    "static/media/logo.png": "/centrocivico-allo/static/media/logo.9f658ca58835f01c4c37.png",
+    "index.html": "/centrocivico-allo/index.html",
+    "main.083cd21f.css.map": "/centrocivico-allo/static/css/main.083cd21f.css.map",
+    "main.96a83543.js.map": "/centrocivico-allo/static/js/main.96a83543.js.map",
+    "787.1b39e8de.chunk.js.map": "/centrocivico-allo/static/js/787.1b39e8de.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.083cd21f.css",
+    "static/js/main.96a83543.js"
+  ]
+}
